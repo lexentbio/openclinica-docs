@@ -8,7 +8,6 @@ published: false
 Click the study you would like to learn more about:
 
 * Study 1
-
 * Study 2
 
 ![Screen Shot 2017-04-21 at 5.33.00 PM-14851f.png](/uploads/Screen%20Shot%202017-04-21%20at%205.33.00%20PM-14851f.png)
