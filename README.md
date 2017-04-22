@@ -4,6 +4,10 @@ title: Lexent Bio Help Center
 
 ## Welcome to Lexent Bio EDC Resources Page
 
+Click the study you would like to learn more about:
+
+* Study 1 
+* Study 2
 
 You can use the [editor on GitHub](https://github.com/lexentbio/openclinica-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
