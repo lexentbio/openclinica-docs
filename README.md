@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+---
+title: Lexent Bio Help Center
+---
+
+## Welcome to Lexent Bio EDC Resources Page
+
 
 You can use the [editor on GitHub](https://github.com/lexentbio/openclinica-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
