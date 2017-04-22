@@ -1,8 +1,3 @@
----
-title: Lexent Bio Help Center
-published: false
----
-
 ## Welcome to Lexent Bio EDC Resources Page
 
 Click the study you would like to learn more about:
