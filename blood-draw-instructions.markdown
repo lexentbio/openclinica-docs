@@ -1,6 +1,7 @@
 ---
 title: 5. Blood Draw Instructions
 date: 2017-04-23 02:19:00 Z
+position: 5
 ---
 
 The blood draw kit should contain the following items:
