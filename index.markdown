@@ -1,6 +1,7 @@
 ---
-title: Welcome to Lexent Bio Help Center
+title: 1. Welcome to Lexent Bio Help Center
 date: 2017-04-22 19:47:00 Z
+position: 0
 ---
 
 # Lexent Bio Help Center
@@ -19,4 +20,4 @@ Topics:
 
 * Completing case report forms
 
-If you have any questions, contact atezcan@lexentbio.com or call: 858-224-6512
+If you have any questions, please contact atezcan@lexentbio.com or call: 858-224-6512
