@@ -15,9 +15,9 @@ Before beginning to register a participant, please make sure the steps below are
 
 Now, you are ready to enroll the participant and obtain a Participant ID number.
 
-Registration
+## Registration
 
-* In the Subject Matrix box, choose 'Add New Subject' 
+* In the Subject Matrix box, choose 'Add New Subject'
 
 * Enter open fields – this step will generate a Participant ID
 
