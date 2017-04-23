@@ -1,7 +1,7 @@
 ---
 title: 1. Welcome to Lexent Bio Help Center
 date: 2017-04-22 19:47:00 Z
-position: 1
+position: 0
 ---
 
 # Lexent Bio Help Center

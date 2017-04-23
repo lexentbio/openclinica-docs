@@ -1,7 +1,7 @@
 ---
 title: 6. Completing Case Report Forms After Initial Enrollment and Study Blood Draw
 date: 2017-04-23 02:36:00 Z
-position: 0
+position: 1
 ---
 
 ### Registration - completing the rest of the forms in the Registration section
