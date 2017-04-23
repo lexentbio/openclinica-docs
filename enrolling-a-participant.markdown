@@ -14,3 +14,15 @@ Before beginning to register a participant, please make sure the steps below are
 4. A blood draw kit is ready with you for the participant who is ready to enroll.
 
 Now, you are ready to enroll the participant and obtain a Participant ID number.
+
+Registration
+
+* In the Subject Matrix box, choose 'Add New Subject' 
+
+* Enter open fields – this step will generate a Participant ID
+
+* Click Add
+
+* Record the Participant ID generated on the page to both Blood Sample Packing Slips
+
+* Record your fax number and attention to: on one of the Blood Sample Packing Slips
