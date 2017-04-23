@@ -19,4 +19,4 @@ Topics:
 
 * Completing case report forms
 
-If you have any questions, contact atezcan@lexentbio.com or call: 858-224-6512
+If you have any questions, please contact atezcan@lexentbio.com or call: 858-224-6512
