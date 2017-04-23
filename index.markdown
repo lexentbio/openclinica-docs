@@ -7,7 +7,7 @@ date: 2017-04-22 19:47:00 Z
 
 Topics:
 
-[* Sign In to OpenClinica](https://manage.siteleaf.com/pages/58fc074b9be5f50bf241251a/edit)
+* Sign In to OpenClinica
 
 * The OpenClinica Homepage
 
