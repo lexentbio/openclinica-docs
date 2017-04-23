@@ -1,7 +1,7 @@
 ---
 title: 2. Sign In
 date: 2017-04-23 00:51:00 Z
-position: 2
+position: 1
 ---
 
 * If you are a study site, you should have received a username and password for initial sign in.
