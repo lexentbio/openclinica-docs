@@ -18,3 +18,5 @@ Topics:
 * Blood Draw Instructions
 
 * Completing case report forms
+
+If you have any questions, contact atezcan@lexentbio.com or call: 858-224-6512
