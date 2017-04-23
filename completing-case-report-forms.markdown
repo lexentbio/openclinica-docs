@@ -1,5 +1,5 @@
 ---
-title: Completing Case Report Forms after Initial Registration and Study Blood Draw
+title: Completing Case Report Forms After Initial Registration and Study Blood Draw
 date: 2017-04-23 02:36:00 Z
 ---
 
