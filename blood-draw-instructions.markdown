@@ -36,6 +36,6 @@ To submit a participant blood sample, complete the following steps in order:
    10355 Science Center, Drive #150\
    San Diego, CA 92121**
 
-OR if in the San Diego county area:
+  **  OR if in the San Diego county area:
 
-**Call The Messenger Company at () account number 5510 for pick-up and delivery before 5PM or before 9am the following morning (Mon-Friday only).**
+  **  Call The Messenger Company at () account number 5510 for pick-up and delivery before 5PM or before 9am the following morning (Mon-Friday only).**
