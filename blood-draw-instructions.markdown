@@ -31,11 +31,20 @@ To submit a participant blood sample, complete the following steps in order:
 
 * Ship the package the same day overnight using the pre-addressed courier packing bag between Monday – Thursday to
 
-  ** Lexent Bio Inc\
-   c/o Dr. Haluk Tezcan\
-   10355 Science Center, Drive #150\
-   San Diego, CA 92121**
+  Lexent Bio Inc\
+  c/o Dr. Haluk Tezcan\
+  10355 Science Center, Drive #150\
+  San Diego, CA 92121
 
-  **  OR if in the San Diego county area:
+  OR if in the San Diego county area:
 
-  **  Call The Messenger Company at () account number 5510 for pick-up and delivery before 5PM or before 9am the following morning (Mon-Friday only).**
+  Call The Messenger Company at () account number 5510 for pick-up and delivery before 5PM or before 9am the following morning (Mon-Friday only).
+
+
+* In case of any problems, contact Dr. Haluk Tezcan at [htezcan@lexentbio.com](mailto:htezcan@lexentbio.com) or
+  Tim Wilson at [twilson@lexentbio.com](mailto:twilson@lexentbio.com)
+  Phone: 858-224-6512
+  
+  
+  
+  
