@@ -2,9 +2,8 @@
 title: Openclinica Docs
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
+  studies:
+    title: Studies
   uploads:
     title: Uploads
     output: true
