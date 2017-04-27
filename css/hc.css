@@ -40,7 +40,7 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover
 p
 {
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
-  font-weight:200
+  font-weight:400
 }
 
 .study-content h2,h3,h4,h5,h6
@@ -129,7 +129,7 @@ p
   line-height:30px;
   text-indent:40px;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
-  font-weight:200;
+  font-weight:400;
   color:#9c9c9c;
   text-shadow:1px 1px #fff
 }
@@ -184,7 +184,7 @@ p
 .sidebar-nav > .sidebar-brand > h3
 {
   font-size:15px;
-  font-weight:100;
+  font-weight:200;
   color:#5d5f67
 }
 
@@ -372,7 +372,7 @@ pre
   padding-top:5px;
   margin-top:40px;
   z-index:1;
-  color:#cdcdcd
+  color:#737373
 }
 
 .label-danger
@@ -598,8 +598,8 @@ time
 
 .user-card p
 {
-  color:#c4c4c4;
-  font-size:small
+  color:#000000;
+  font-size:small;
 }
 
 .card
@@ -611,7 +611,7 @@ time
 .letter p
 {
   font-size:1.2em;
-  font-weight:lighter;
+  font-weight:400;
   color:#737373;
   text-shadow:1px 1px #fff
 }
