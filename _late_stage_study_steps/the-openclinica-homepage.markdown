@@ -1,5 +1,5 @@
 ---
-title: 2. The OpenClinica Homepage
+title: The OpenClinica Homepage
 date: 2017-04-23 01:49:00 Z
 position: 2
 ---

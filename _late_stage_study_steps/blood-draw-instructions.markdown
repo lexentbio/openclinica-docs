@@ -1,5 +1,5 @@
 ---
-title: 5. Blood Draw Instructions
+title: Blood Draw Instructions
 date: 2017-04-23 02:19:00 Z
 position: 4
 ---
