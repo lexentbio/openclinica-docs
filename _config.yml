@@ -2,9 +2,26 @@
 title: Openclinica Docs
 timezone: UTC
 collections:
-  studies:
-    title: Studies
+  posts:
+    title: Posts
+    output: true
+  late_stage_study_steps:
+    title: Tumor monitoring in late stage solid tumor using cfDNA
+    output: false
+    study: true
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-tactile
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+name: Help Center
+author: Lexent Bio
+description: OpenClinica Study Guide
+email: clinicaltrials[at]lexentbio.com
+phone: 858-224-6512
+messenger_service_phone: 858-514-8866
+messenger_service_account: 5510
