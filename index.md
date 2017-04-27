@@ -3,6 +3,7 @@ title: Lexent Bio - Late Stage Study - Help Guide
 link_name: Late Stage Study
 order: 1
 ---
+
 {% assign study = site.collections | where: "label", "late_stage_study_steps" | first %}
 
 # Study: {{ study.title }}
