@@ -18,7 +18,7 @@ To submit a participant blood sample, complete the following steps in order:
 
 ### Blood Draw
 
-1. Draw total of 20 ml blood into two Streck (brown-black top) tube each 10 ml.
+1. Draw a total of 20 ml blood into two Streck (brown-black top) tube, each 10 ml.
 
 2. Peel and adhere the **Blood Sample ID** on the \*\*Blood Sample Packing Slip \*\*and complete the form.
 
@@ -39,7 +39,7 @@ To submit a participant blood sample, complete the following steps in order:
 
   **OR** If in the San Diego county area:
 
-  Call The Messenger Company at {{site.messenger_service_phone}} account number {{site.messenger_service_account}} for pick-up and delivery before 5PM or before 9am the following morning (Mon-Friday only).
+  Call The Messenger Company at {{site.messenger_service_phone}} account number {{site.messenger_service_account}} for pick-up and delivery before 5PM or before 9AM the following morning (Mon-Friday only).
 
 * In case of any problems, contact Dr. Haluk Tezcan at [htezcan@lexentbio.com](mailto:htezcan@lexentbio.com) or
   Tim Wilson at [twilson@lexentbio.com](mailto:twilson@lexentbio.com)
