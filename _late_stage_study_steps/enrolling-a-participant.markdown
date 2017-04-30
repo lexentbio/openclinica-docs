@@ -20,7 +20,11 @@ Now, you are ready to enroll the participant and obtain a Participant ID number.
 
 * In the Subject Matrix box, choose 'Add New Subject'
 
+  ![subjmatrix1 - 1.jpg](/uploads/subjmatrix1%20-%201.jpg)
+
 * Enter open fields – this step will generate a Participant ID
+
+  ![regnewsub - 1.jpg](/uploads/regnewsub%20-%201.jpg)
 
 * Click Add
 
@@ -28,4 +32,4 @@ Now, you are ready to enroll the participant and obtain a Participant ID number.
 
 * Record your fax number and attention to: on one of the Blood Sample Packing Slips
 
-* Record in your study folder Participant ID AND matching name of participant and medical record number. Keep this document in a safe place at your site and do not share with study sponsor.
+* Record in your study folder Participant ID AND matching name of participant and medical record number.  Keep this document in a safe place at your site and do not share with study sponsor.

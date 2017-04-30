@@ -5,7 +5,9 @@ position: 1
 ---
 
 * If you are a study site, you should have received a username and password for initial sign in.
+  User Name : \
+  Password :
 
 * Once you sign in, you will be prompted to change your password.
 
-* If you are having difficulty signing in please contact atezcan@lexentbio.com
+* If you are having difficulty signing in please contact clincialtrials@lexentbio.com or [(858) 224-6512. ](tel:(858)%20224-6512)
