@@ -6,9 +6,11 @@ position: 4
 
 ### Registration - completing the rest of the forms in the Registration section
 
-* On the home page, click on registration column for the patient information you would like to enter
+* On the home page, select the Subject Matrix option on top and click on the participant for whom you wish to complete the registration.
 
-* Click on **View/Enter Data**
+* On registration column for the patient information you would like to enter.
+
+* Click on **Schedule**![select reg - 1.jpg](/uploads/select%20reg%20-%201.jpg)
 
 * This will bring you to “the **Enter or Validate Data for CRFs in Registration**” page
 
