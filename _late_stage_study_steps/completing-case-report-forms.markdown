@@ -10,15 +10,17 @@ position: 4
 
 * On registration column for the patient information you would like to enter.
 
-* Click on **Schedule**![select reg - 1.jpg](/uploads/select%20reg%20-%201.jpg)
+* Click on **Schedule.**![select reg - 1.jpg](/uploads/select%20reg%20-%201.jpg)
 
-* This will bring you to “the **Enter or Validate Data for CRFs in Registration**” page
+* This will bring you to “the Schedule Study Event for the participant” page
 
-* Click on edit icon on **Actions** column and **Registration** row
+  ![proceed to enter data - 1.jpg](/uploads/proceed%20to%20enter%20data%20-%201.jpg)
 
-* Complete each form by picking the tabs on top or select to jump
+* Click on** Proceed to Enter Data.**
 
-* Mark '**Complete'** on the **Blood Sample** form after all the required information in registration section is completed
+* Complete each form by picking the tabs on top or select to jump.
+
+* Mark '**Complete'** on the **Blood Sample** form after all the required information in registration section is completed.
 
 ### To enter a new event/visit
 
