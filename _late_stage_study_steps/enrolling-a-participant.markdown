@@ -1,7 +1,7 @@
 ---
 title: Enrolling a Participant
 date: 2017-04-23 01:54:00 Z
-position: 3
+position: 2
 ---
 
 Before beginning to register a participant, please make sure the steps below are followed:

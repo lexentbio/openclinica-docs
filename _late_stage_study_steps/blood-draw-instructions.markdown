@@ -1,7 +1,7 @@
 ---
 title: Blood Draw Instructions
 date: 2017-04-23 02:19:00 Z
-position: 4
+position: 3
 ---
 
 The blood draw kit should contain the following items:
@@ -43,4 +43,4 @@ To submit a participant blood sample, complete the following steps in order:
 
 * In case of any problems, contact Dr. Haluk Tezcan at [htezcan@lexentbio.com](mailto:htezcan@lexentbio.com) or
   Tim Wilson at [twilson@lexentbio.com](mailto:twilson@lexentbio.com)
-  Phone: {{site.phone}}
+  Phone: [(858) 224-6512](tel:(858)%20224-6512)
