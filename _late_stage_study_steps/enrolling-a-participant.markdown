@@ -18,7 +18,7 @@ Now, you are ready to enroll the participant and obtain a Participant ID number.
 
 ### Registration
 
-* In the Subject Matrix box, choose 'Add New Subject' 
+* In the Subject Matrix box, choose 'Add New Subject'
 
   ![subjmatrix1 - 1.jpg](/uploads/subjmatrix1%20-%201.jpg)
 
