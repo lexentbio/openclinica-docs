@@ -8,4 +8,4 @@ position: 1
 
 * Once you sign in, you will be prompted to change your password.
 
-* If you are having difficulty signing in please contact atezcan@lexentbio.com
+* If you are having difficulty signing in please contact clincialtrials@lexentbio.com
