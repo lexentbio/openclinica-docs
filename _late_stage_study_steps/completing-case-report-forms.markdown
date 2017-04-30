@@ -34,14 +34,16 @@ position: 4
 
 * Mark '**Complete'** on the **Blood Sample** form after all the required information in registration section is completed.
 
+  ![bloodreg - 1.jpg](/uploads/bloodreg%20-%201.jpg)
+
 ### To enter a new event/visit
 
-* From the top tabs, click on **Task**
+* From the top tabs, click on **Task.**
 
-* Choose **Schedule Event**
+* Choose **Schedule Event.**
 
-* Enter Study Subject ID and select event: On Therapy Visit, Off Therapy Follow-up or End of Study (only when participant drops out of study, is lost to follow-up or no longer alive)
+* Enter Study Subject ID and select event: On Therapy Visit, Off Therapy Follow-up or End of Study (only when participant drops out of study, is lost to follow-up or no longer alive).
 
-* From the **Actions** box, select the enter data icon and complete the form
+* From the **Actions** box, select the enter data icon and complete the form.
 
-* Complete the form after all the relevant and blood draw information are collected
+* Complete the form after all the relevant and blood draw information are collected.
