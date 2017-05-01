@@ -8,7 +8,6 @@ position: 0
 
   * User Name:
 
-
   * Password:
 
 * Once you sign in, you will be prompted to change your password.
