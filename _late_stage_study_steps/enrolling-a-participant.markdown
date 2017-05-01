@@ -20,13 +20,13 @@ Now, you are ready to enroll the participant and obtain a Participant ID number 
 
 * In the Subject Matrix box, choose 'Add New Subject'
 
-  ![subjmatrix1 - 1.jpg](/uploads/subjmatrix1%20-%201.jpg)
+  ![subjmatrix - 1-991188.jpg](/uploads/subjmatrix%20-%201-991188.jpg)
 
 * Enter open fields – this step will generate a Participant ID
 
   ![regnewsub - 1.jpg](/uploads/regnewsub%20-%201.jpg)
 
-* Click Add
+* Click **Add**
 
 * Record the Participant ID generated on the page to both Blood Sample Packing Slips
 
