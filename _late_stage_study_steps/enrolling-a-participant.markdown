@@ -28,10 +28,14 @@ Now, you are ready to enroll the participant and obtain a Participant ID number 
 
 * Click **Add**
 
-* Record the Participant ID generated on the page to both Blood Sample Packing Slips
+* Record the Participant ID generated on the page to Blood Sample Packing Slip.
 
   ![subject idnumber - 1.jpg](/uploads/subject%20idnumber%20-%201.jpg)
 
-* Record your fax number and attention to: on one of the Blood Sample Packing Slips
+  ![sample packaging slip - 1.jpg](/uploads/sample%20packaging%20slip%20-%201.jpg)
+
+* Record your fax number and attention to: on the Blood Sample Packing Slip
+
+  ![sample packaging slip - 1 (1).jpg](/uploads/sample%20packaging%20slip%20-%201%20(1).jpg)
 
 * Record in your study folder Participant ID AND matching name of participant and medical record number.  Keep this document in a safe place at your site and do not share with study sponsor.
