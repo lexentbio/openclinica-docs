@@ -10,4 +10,4 @@ position: 0
 
 * Once you sign in, you will be prompted to change your password.
 
-* If you are having difficulty signing in please contact clincialtrials@lexentbio.com or [(858) 224-6512. ]
+* If you are having difficulty signing in please contact clincialtrials@lexentbio.com or (858) 224-6512. 
