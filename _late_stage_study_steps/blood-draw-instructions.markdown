@@ -8,9 +8,9 @@ The blood draw kit should contain the following items:
 
 * Sample Collection Instructions
 
-* **Blood Sample ID** Barcode Labels
+* Two** Blood Sample ID** Barcode Labels
 
-* Two Blood Sample Packing Slips
+* One **Blood Sample Packing Slip**
 
 * Two 10 mL Streck (brown-black top) blood collection tubes
 
@@ -20,7 +20,7 @@ To submit a participant blood sample, complete the following steps in order:
 
 1. Draw total of 20 ml blood into two Streck (brown-black top) tube each 10 ml.
 
-2. Peel and adhere the **Sample ID** on the **Blood Sample Packing Slip** and complete the form.
+2. Peel and adhere each corresponding **Sample ID** on the **Blood Sample Packing Slip** and complete the form.
 
 3. Fax the **Blood Sample Packing Slip** info to the fax number on the slip or send it back to the individual indicated on the slip.
 
