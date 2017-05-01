@@ -5,8 +5,9 @@ position: 0
 ---
 
 * If you are a study site, you should have received a username and password for initial sign in.
-  * * * User Name:
-  * * * Password:
+  
+* * * User Name:
+* * * Password:
 
 * Once you sign in, you will be prompted to change your password.
 
