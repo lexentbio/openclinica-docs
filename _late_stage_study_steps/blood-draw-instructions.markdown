@@ -20,9 +20,11 @@ To submit a participant blood sample, complete the following steps in order:
 
 1. Draw total of 20 ml blood into two Streck (brown-black top) tube each 10 ml.
 
-2. Peel and adhere each corresponding **Sample ID** on the **Blood Sample Packing Slip** and complete the form.
+2. Rotate the tubes up-and-down 10 times.
 
-3. Fax the **Blood Sample Packing Slip** info to the fax number on the slip or send it back to the individual indicated on the slip.
+3. Peel and adhere each corresponding **Sample ID** on the **Blood Sample Packing Slip** and complete the form.
+
+4. Fax the **Blood Sample Packing Slip** info to the fax number on the slip or send it back to the individual indicated on the slip.
 
 ### **Shipping Information**
 
