@@ -2,6 +2,9 @@
 title: Openclinica Docs
 timezone: UTC
 collections:
+  early-stage-and-healthy-individuals-study:
+    title: Early Stage and Healthy Individuals Study
+    output: true
   posts:
     title: Posts
     output: true
