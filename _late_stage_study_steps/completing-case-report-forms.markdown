@@ -46,7 +46,7 @@ position: 4
 
 * Choose **Schedule Event.**
 
-* Enter Study Subject ID and select event: **On Therapy Visit**, **Off Therapy Follow-up** or **End of Study **(only when participant drops out of study, is lost to follow-up or no longer alive).
+* Enter Study Subject ID and select event: **On Therapy Visit**, **Off Therapy Follow-up** or \*\*End of Study \*\*(only when participant drops out of study, is lost to follow-up or no longer alive).
 
 * From the **Actions** box, select the enter data icon and complete the form.
 
