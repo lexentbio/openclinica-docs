@@ -16,7 +16,7 @@ position: 4
 
 * This will bring you to the **Schedule Study Event for the participant** page.
 
-* ![proceed to enter data - 1-08d74c.jpg](/uploads/proceed%20to%20enter%20data%20-%201-08d74c.jpg)
+  ![proceed to enter data - 1-08d74c.jpg](/uploads/proceed%20to%20enter%20data%20-%201-08d74c.jpg)
 
 * Click on **Proceed to Enter Data**.
 
@@ -46,7 +46,7 @@ position: 4
 
 * Choose **Schedule Event.**
 
-* Enter Study Subject ID and select event: **On Therapy Visit**, **Off Therapy Follow-up** or \*\*End of Study \*\*(only when participant drops out of study, is lost to follow-up or no longer alive).
+* Enter Study Subject ID and select event: **On Therapy Visit**, **Off Therapy Follow-up** or **End of Study** (only when participant drops out of study, is lost to follow-up or no longer alive).
 
 * From the **Actions** box, select the enter data icon and complete the form.
 
