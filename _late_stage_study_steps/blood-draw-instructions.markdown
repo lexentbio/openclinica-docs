@@ -8,7 +8,7 @@ The blood draw kit should contain the following items:
 
 * Sample Collection Instructions
 
-* Two** Blood Sample ID** Barcode Labels
+* Two\*\* Blood Sample ID\*\* Barcode Labels
 
 * One **Blood Sample Packing Slip**
 
@@ -30,7 +30,7 @@ To submit a participant blood sample, complete the following steps in order:
 
 ### **Shipping Information**
 
-* Place **Blood Sample Packing Slip **and Streck tubes in the Styrofoam container in the cardboard sleeve**.**
+* Place **Blood Sample Packing Slip and Streck tubes in the Styrofoam container in the cardboard sleeve**.
 
 * **DO NOT** refrigerate.
 
