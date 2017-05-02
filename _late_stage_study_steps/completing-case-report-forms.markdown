@@ -14,7 +14,7 @@ position: 4
 
   ![select reg - 1-ac77d9.jpg](/uploads/select%20reg%20-%201-ac77d9.jpg)
 
-* This will bring you to “the Schedule Study Event for the participant” page.
+* This will bring you to the **Schedule Study Event for the participant** page.
 
   ![proceed to enter data - 1.jpg](/uploads/proceed%20to%20enter%20data%20-%201.jpg)
 
