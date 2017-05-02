@@ -6,7 +6,7 @@ position: 4
 
 ### Registration - completing the rest of the forms in the Registration section
 
-* On the home page, select the Subject Matrix option on top and click on the participant for whom you wish to complete the registration.
+* On the home page, select the **Subject Matrix** option on top and click on the participant for whom you wish to complete the registration.
 
 * On registration column for the patient information you would like to enter.
 
@@ -36,16 +36,18 @@ position: 4
 
 * Mark '**Complete'** on the **Blood Sample** form after all the required information in registration section is completed.
 
-  ![bloodreg - 1.jpg](/uploads/bloodreg%20-%201.jpg)
+  ![bloodreg - 1-f54b69.jpg](/uploads/bloodreg%20-%201-f54b69.jpg)
 
 ### To enter a new event/visit
 
 * From the top tabs, click on **Task.**
 
+![task - 1.jpg](/uploads/task%20-%201.jpg)
+
 * Choose **Schedule Event.**
 
-* Enter Study Subject ID and select event: On Therapy Visit, Off Therapy Follow-up or End of Study (only when participant drops out of study, is lost to follow-up or no longer alive).
+* Enter Study Subject ID and select event: **On Therapy Visit**, **Off Therapy Follow-up** or **End of Study **(only when participant drops out of study, is lost to follow-up or no longer alive).
 
 * From the **Actions** box, select the enter data icon and complete the form.
 
-* Complete the form after all the relevant and blood draw information are collected.
+* Mark **Complete** after all the relevant and blood draw information are collected.
