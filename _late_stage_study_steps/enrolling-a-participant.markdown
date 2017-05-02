@@ -14,7 +14,7 @@ Before beginning to register a participant, please make sure the steps below are
 
 4. A blood draw kit is ready with you for the participant who is ready to enroll.
 
-Now, you are ready to enroll the participant and obtain a Participant ID number (called Study Subject ID in OpenClinica).
+Now, you are ready to enroll the participant and obtain a **Subject ID** number.
 
 ### Registration
 
