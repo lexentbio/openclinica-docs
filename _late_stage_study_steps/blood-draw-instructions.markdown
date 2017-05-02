@@ -45,5 +45,5 @@ To submit a participant blood sample, complete the following steps in order:
 
   Call The Messenger Company at {{site.messenger_service_phone}} account number {{site.messenger_service_account}} for pick-up and delivery before 5PM or before 9am the following morning (Mon-Friday only).
 
-* In case of any problems, contact us at clinicaltrials[@lexentbio.com](mailto:twilson@lexentbio.com)
+* In case of any problems, contact us at (mailto:clinicaltrials@lexentbio.com)
   Phone: [(858) 224-6512](tel:(858)%20224-6512)
