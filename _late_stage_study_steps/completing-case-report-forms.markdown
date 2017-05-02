@@ -40,14 +40,10 @@ position: 4
 
 ### To enter a new event/visit
 
-* From the top tabs, click on **Task.**
+* From the **Subject Matrix**, select the icon under event column - **On Therapy Visit**, **Off Therapy Follow-up** or **End of Study** (only when participant drops out of study, is lost to follow-up or no longer alive) - and the patient row and click **Schedule**.
 
-![task - 1.jpg](/uploads/task%20-%201.jpg)
+![task - 1 (2).jpg](/uploads/task%20-%201%20(2).jpg)
 
-* Choose **Schedule Event.**
-
-* Enter Study Subject ID and select event: **On Therapy Visit**, **Off Therapy Follow-up** or **End of Study** (only when participant drops out of study, is lost to follow-up or no longer alive).
-
-* From the **Actions** box, select the enter data icon and complete the form.
+* Complete the CRFs in the event.
 
 * Mark **Complete** after all the relevant and blood draw information are collected.
