@@ -8,7 +8,7 @@ The blood draw kit should contain the following items:
 
 * Sample Collection Instructions
 
-* Two\*\* Blood Sample ID\*\* Barcode Labels
+* Two **Blood Sample ID** Barcode Labels
 
 * One **Blood Sample Packing Slip**
 
