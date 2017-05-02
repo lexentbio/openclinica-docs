@@ -8,7 +8,7 @@ position: 4
 
 * On the home page, select the **Subject Matrix** option on top and click on the participant for whom you wish to complete the registration.
 
-* On registration column for the patient information you would like to enter.
+* Click on the icon on the registration column for the patient information you would like to enter.
 
 * Click on **Schedule.**
 
