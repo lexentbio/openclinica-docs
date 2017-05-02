@@ -10,25 +10,27 @@ position: 4
 
 * On registration column for the patient information you would like to enter.
 
-* Click on **Schedule.**![select reg - 1.jpg](/uploads/select%20reg%20-%201.jpg)
+* Click on **Schedule.**
+
+  ![select reg - 1-ac77d9.jpg](/uploads/select%20reg%20-%201-ac77d9.jpg)
 
 * This will bring you to “the Schedule Study Event for the participant” page.
 
   ![proceed to enter data - 1.jpg](/uploads/proceed%20to%20enter%20data%20-%201.jpg)
 
-* Click on** Proceed to Enter Data.**
+* Click on **Proceed to Enter Data**.
 
-* This will bring you to Enter or Validate Data for CRFs in Registration
+* This will bring you to **Enter or Validate Data** for CRFs in Registration
 
-  ![validate data - 1.jpg](/uploads/validate%20data%20-%201.jpg)
+  ![validate data - 1-ef2d32.jpg](/uploads/validate%20data%20-%201-ef2d32.jpg)
 
-* Select Enter data in** Action **window.
+* Select Enter data in **Action** window.
 
 * This will bring you to the CRFs in Registration.
 
 * Complete each form by picking the tabs on top or select to jump and **Save** after completing.
 
-  * *Diagnostic pathology report and radiology imaging are required documents. You may Save the pages without having these while completing forms but these documents should be uploaded before marking these CRFs Complete. Not doing so will create a query. *
+  * \*Diagnostic pathology report and radiology imaging are required documents. You may Save the pages without having these while completing forms but these documents should be uploaded before marking these CRFs Complete. Not doing so will create a query. \*
 
   ![regdemog - 1.jpg](/uploads/regdemog%20-%201.jpg)![reglifestyle - 1.jpg](/uploads/reglifestyle%20-%201.jpg)![reglpath - 1.jpg](/uploads/reglpath%20-%201.jpg)![reglimagine - 1.jpg](/uploads/reglimagine%20-%201.jpg)
 
